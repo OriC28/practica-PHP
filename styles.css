@@ -1,0 +1,29 @@
+
+body{
+	display: grid;
+	place-content: center;
+}
+
+#main-title{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
+
+img{
+	border-radius: 16px;
+	margin: 0 auto;
+}
+
+section{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
+
+hgroup{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+}
